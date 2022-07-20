@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Healthcare Apps**
 
-- 🌱 I’m currently learning **JavaScript, React and Python**
+- 🌱 I’m currently learning **Node and React**
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
