@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter and Dart**
 
 - 📫 How to reach me **harshrock2010@gmail.com**
 
