@@ -18,6 +18,7 @@
 - 📫 How to reach me **harshrock2010@gmail.com**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshbangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh8088" height="30" width="40" /></a>
