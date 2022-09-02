@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋 </h1>
+<h1 align="center">Hi  👋 </h1>
 <h3 align="center">A passionate Flutter developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh8088&label=Profile%20views&color=0e75b6&style=flat" alt="harsh8088" /> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Healthcare Apps**
 
-- 🌱 I’m currently learning **Node and React**
+- 🌱 I’m learning **Node and React**
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
