@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter and React**
 
 - 📫 How to reach me **harshrock2010@gmail.com**
 
