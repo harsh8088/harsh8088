@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Flutter Mobile Apps** 
 
-- 🌱 I’m learning **Flutter and React**
+- 🌱 I’m learning **Flutter and React...**
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
