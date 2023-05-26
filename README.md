@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Flutter Mobile Apps...** 
 
-- 🌱 I’m learning **Flutter and ReactJS...**
+- 🌱 I’m learning **Flutter and ReactJS.**
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter & React **
 
 - 📫 How to reach me **harshrock2010@gmail.com**
 
