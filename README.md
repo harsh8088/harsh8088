@@ -8,7 +8,6 @@
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=harsh8088&label=Profile%20views&color=0e75b6&style=flat" alt="harsh8088" /> </p>
 
-
 - 🔭 I’m currently working on **Flutter Mobile Apps...** 
 
 - 🌱 I’m learning **Flutter and ReactJS.**
@@ -18,7 +17,6 @@
 - 💬 Ask me about **Flutter & React **
 
 - 📫 How to reach me **harshrock2010@gmail.com**
-
 
 
 <h3 align="left">Connection Links:</h3>
