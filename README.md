@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi  👋  </h1>
-<h3 align="center">A passionate Flutter Developer.</h3> 
+<h3 align="center">A passionate Mobile Developer.</h3> 
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=harsh8088&label=Profile%20views&color=0e75b6&style=flat" alt="harsh8088" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
-- 💬 Ask me about **Flutter & React **
+- 💬 Ask me about **Flutter & ReactJS **
 
 - 📫 How to reach me **harshrock2010@gmail.com**
 
