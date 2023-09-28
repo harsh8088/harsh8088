@@ -24,6 +24,8 @@
 <a href="https://linkedin.com/in/harshbangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh8088" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4623392/harsh-bangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13051247" height="30" width="40" /></a>
 <a href="https://medium.com/@harshrock2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="harsh8088" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/harsh8088" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="harsh8088" height="30" width="40" /></a>
+<a href="https://leetcode.com/harsh8088/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="harsh8088" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Profile Badges:</h3>
