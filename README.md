@@ -62,8 +62,22 @@
 <p align="left">
 <a href="https://stardev.io/developers/harsh8088"><img alt="Check out harsh8088's profile on stardev.io" src="https://stardev.io/developers/harsh8088/badge/languages/global.svg" /></a></p>
 
+
+
+<p align="left">
+  <img width="378em" src="https://github-readme-stats.vercel.app/api?username=harsh8088&show_icons=true&locale=en&theme=flag-india"                alt="harsh8088"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh8088&theme=default" alt="harsh8088" />
+</p>
+
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/harsh8088"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harsh8088" /></a></p>
+
+
+
+
+
+### ☄️ Github Streaks ⚡ Github Stats :
+
 
 
 
