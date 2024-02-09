@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mobile Apps..** 
 
-- 🌱 I’m learning **ReactJS**
+- 🌱 I’m learning **ReactJS and Node**
 
 - 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
