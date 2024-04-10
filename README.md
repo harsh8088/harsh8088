@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning **Flutter, ReactJS and Python.**
 
-- 👨‍💻 All of my projects are available at [https://harsh8088.github.io](https://harsh8088.github.io)
+- 👨‍💻 Profile Portfolio available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
 - 💬 Ask me about **Flutter & ReactJS.**
 
