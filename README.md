@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mobile Applications... ** 
 
-- 🌱 I’m learning **Flutter, ReactJS and Python...**
+- 🌱 I’m learning **Flutter, ReactJS and NodeJS...**
 
 - 👨‍💻 Profile Portfolio available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
