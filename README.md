@@ -56,8 +56,7 @@
 </p>
 
 <p align="left">
-<a href="https://stardev.io/developers/harsh8088"><img alt="Check out harsh8088's profile on stardev.io" src="https://stardev.io/developers/harsh8088/badge/languages/global.svg" /></a></p>
-
+<a href="https://stardev.io/developers/harsh8088"><img alt="Check out harsh8088's profile on stardev.io" src="https://stardev.io/developers/harsh8088/badge/languages/locality.svg" /></a>
 
 <p align="left">
   <img width="378em" src="https://github-readme-stats.vercel.app/api?username=harsh8088&show_icons=true&locale=en&theme=flag-india"                alt="harsh8088"/>
