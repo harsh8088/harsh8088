@@ -14,7 +14,7 @@
 
 - 👨‍💻 Profile Portfolio available at [https://harsh8088.github.io](https://harsh8088.github.io)
 
-- 💬 Ask me about **Flutter & ReactJS.**
+- 💬 Ask me about **Flutter & ReactJS..**
 
 - 📫 How to reach me **harshrock2010@gmail.com**
 
