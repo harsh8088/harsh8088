@@ -48,7 +48,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left"></h3>
+<h3></h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh8088&show_icons=true&locale=en&layout=compact" alt="harsh8088" />
