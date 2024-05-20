@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;This+is+Harsh...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 <h3 align="center"> A passionate Mobile Developer...</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=harsh8088&label=Profile%20views&color=0e75b6&style=flat" alt="harsh8088" /></p>
@@ -61,9 +62,11 @@
 </p>
 
 <h3></h3>
+
 <p align="left">
 <a href="https://stardev.io/developers/harsh8088"><img alt="Check out harsh8088's profile on stardev.io" src="https://stardev.io/developers/harsh8088/badge/languages/locality.svg" /></a>
 </p>
+
 <p align="left">
   <img width="378em" src="https://github-readme-stats.vercel.app/api?username=harsh8088&show_icons=true&locale=en&theme=flag-india" alt="harsh8088"/>
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh8088&theme=default" alt="harsh8088" />
