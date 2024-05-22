@@ -21,6 +21,7 @@
 
 
 <h3 align="left">Connection Links:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/harshbangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh8088" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4623392/harsh-bangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13051247" height="30" width="40" /></a>
