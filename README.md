@@ -12,7 +12,6 @@
 
 
 
-
 - 🔭 I’m currently working on **Mobile Apps..**
 
 - 🌱 I’m learning **Flutter, ReactJS and NodeJS...**
